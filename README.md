@@ -4,6 +4,6 @@
 
 更多请查看
 
-[安装说明](https://github.com/souxinzn/sxiotsdk/wiki/%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E)
+[安装说明](https://github.com/souxinzn/sxiotsdk/wiki/0_%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E)
 
-[SDK使用说明](https://github.com/souxinzn/sxiotsdk/wiki/SDK%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+[SDK使用说明](https://github.com/souxinzn/sxiotsdk/wiki/1_SDK%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
